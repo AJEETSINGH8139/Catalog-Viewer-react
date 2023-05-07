@@ -47,3 +47,11 @@
   align-items: center;
   margin-right: 15%;
 }
+
+i:hover{
+  color: darkorange;
+}
+
+i:active{
+  color: darkgreen;
+}
